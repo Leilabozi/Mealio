@@ -1,2 +1,3 @@
-# Mealio
-Support for App Store App: Mealio
+# Mealio Support
+Questions, feedback, or issues?
+Contact: leilabozi@icloud.com
